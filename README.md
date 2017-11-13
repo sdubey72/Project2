@@ -38,5 +38,15 @@ NOTE: to include output in jupyter cells use
 ```
 ## Graph Preview
 
+![GitHub Logo](/Capture1.PNG) 
+
+![GitHub Logo](/Capture2.PNG) 
+
+![GitHub Logo](/Capture3.PNG) 
+
+![GitHub Logo](/Capture4.PNG) 
+
+
+
 ## Credits
 data set from https://www.kaggle.com/mrpantherson/metal-by-nation/
